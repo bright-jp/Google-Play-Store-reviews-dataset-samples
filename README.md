@@ -1,4 +1,4 @@
-# Google Play Store Reviews Dataset Sample
+# Google Play Store Reviews データセットサンプル
 
 <h2>4,123件のレコードからなるサンプルデータセット</h2>
 

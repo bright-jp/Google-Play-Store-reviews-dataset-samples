@@ -3,7 +3,7 @@
 <h2>4,123件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Google-Play-Store-reviews-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Google-Play-Store-reviews-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Google Play Store Reviews Dataset Sample** には **4,123件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
